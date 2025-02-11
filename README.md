@@ -1,3 +1,8 @@
+# About Project
+  This project name is facetime and in these project you can connect your friends and family via video call and this app uses your camera and microphone so you need to allow   the to use. 
+
+  This app is build using ReactJs and NodeJs, to build that video call feature i used the zegocloud api which help me to implement that feature in this app and that works      well compatible with this app so use this app by following commands.
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
